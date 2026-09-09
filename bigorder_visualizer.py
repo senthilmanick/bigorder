@@ -2,7 +2,7 @@
 """Matplotlib replay visualizer for The Big Order warehouse challenge.
 
 Usage:
-    python bigorder_visualizer.py BIG_ORDER.txt solution.txt
+    uv run bigorder_visualizer.py BIG_ORDER.txt solution.txt
 
 Controls:
     Space       Play / pause
