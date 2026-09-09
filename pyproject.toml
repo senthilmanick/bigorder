@@ -1,0 +1,13 @@
+[project]
+name = "bigorder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "senthil manickavasagam", email = "senthil@senthil.net" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib"
+]
+
