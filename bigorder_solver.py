@@ -1,7 +1,7 @@
 #!/usr/bin/env 
 """
 See README.md for context and scoring rules.
- 
+
 Usage:
     uv run bigorder_solver.py BIG_ORDER.txt \
     --live-pipe /tmp/bigorder.pipe \
@@ -10,8 +10,8 @@ Usage:
     --yield-after 8 \
     --master-stop-after 24 \
     --target-cooldown 40 \
-    --heartbeat-every 100 \
-    --progress-every 10
+    --heartbeat-every 1000 \
+    --progress-every 1000
 
 """
 from __future__ import annotations
