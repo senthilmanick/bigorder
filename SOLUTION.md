@@ -16,7 +16,7 @@
         uv init
         uv sync
 ```
-3. start the visualizer
+3. Start the visualizer
 ```
 uv run bigorder_visualizer.py \
 BIG_ORDER.txt \
