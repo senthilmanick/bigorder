@@ -4,10 +4,10 @@
 1. The main solver has a master
 2. Needed a visualizer to look at where the robots are getting stuck
 
-### Are there more better mehods
+### Are there better methods
 1. Of course yes
 2. We could use an AI engine to counter
-3. Will attempt next. This alghorithm, was generated based on prompts and finally reviewed
+3. Will attempt next. This algorithm, was generated based on prompts and finally reviewed
 
 ## How to run
 1. git clone this repo
